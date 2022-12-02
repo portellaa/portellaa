@@ -35,11 +35,13 @@
 <a href="https://datacentricai.community"><img height="25" src="https://assets.ydata.ai/dcai/logo.png"/></a>
 <a href="https://ydata.ai"><img height="25" src="https://assets.ydata.ai/logo_notext_nbg.png"/></a>
 
-I'm YData's Software Engineer Tech Lead.
+<p></p>
+
+👨‍🔬 I'm YData's Software Engineer Tech Lead 🪛
 
 [![](https://github-readme-stats.vercel.app/api?username=portellaa&count_private=true&show_icons=true&theme=onedark)](https://github.com/portellaa)
 
-Feel free to get in touch! You can reach us at [Hello](hello@ydata.ai) or [Developers](developers@ydata.ai) or join us at our [Discord Server](https://discord.gg/mw7xjJ7b7s)
+📬 Feel free to get in touch! You can reach us at [Hello](hello@ydata.ai) or [Developers](developers@ydata.ai) or join us at our [Discord Server](https://discord.gg/mw7xjJ7b7s)
 
 ![footer:dcai](https://assets.ydata.ai/dcai/footer.png)
 
