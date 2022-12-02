@@ -30,7 +30,6 @@
 <a href="https://github.com/ydataai/ydata-quality">
     <img src="https://img.shields.io/badge/ydata%20quality-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/company/data-centric-ai-community/"><img height="25" src="https://assets.ydata.ai/external/ld.png"/></a>
 <a href="https://twitter.com/YData_ai"><img height="25" src="https://assets.ydata.ai/external/tw.png"/></a>
 <a href="https://datacentricai.community"><img height="25" src="https://assets.ydata.ai/dcai/logo.png"/></a>
